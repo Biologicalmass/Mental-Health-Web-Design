@@ -1,0 +1,24 @@
+/* image positioning */
+.imagePosition {
+    width: 32%;
+}
+
+/* text box set up */
+.textBox {
+    background-color: bisque;
+    border: 2px solid black;
+    width: 30%;
+    padding: 1%;
+    margin: 3%;
+    width: 30%;
+    height: 200px;
+    overflow: auto;
+    
+}
+/* text box positioning */
+.textBoxContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
