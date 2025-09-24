@@ -68,3 +68,8 @@ h1 {
   z-index: 3;
   background-color: #617073;
 }
+
+#imgwrap{
+  width: 100% ;
+  height: auto;
+}
