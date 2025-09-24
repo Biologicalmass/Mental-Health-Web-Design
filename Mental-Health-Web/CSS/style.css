@@ -1,8 +1,11 @@
+.headings {
+    text-align: center;
+}
+
 /* image positioning */
 .imagePosition {
     width: 32%;
 }
-
 /* text box set up */
 .textBox {
     background-color: bisque;
@@ -22,3 +25,6 @@
     align-items: center;
 }
 
+footer {
+    background-color: chartreuse;
+}
