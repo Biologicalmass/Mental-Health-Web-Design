@@ -24,7 +24,18 @@
     justify-content: space-around;
     align-items: center;
 }
-
+/* footer */
 footer {
     background-color: chartreuse;
+}
+
+.signInButton {
+    background-color: aquamarine;
+    border-width: 1px;
+    border-color: black;
+}
+.signUpButton {
+    background-color: bisque;
+    border-width: 1px;
+    border-color: black;
 }
